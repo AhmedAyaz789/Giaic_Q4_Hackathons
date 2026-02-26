@@ -84,10 +84,10 @@ const config: Config = {
           items: [{ label: 'Introduction', to: '/docs/textbook/intro' }],
         },
         {
-          title: 'Community',
+          title: 'Social Profiles',
           items: [
-            { label: 'Panaversity', href: 'https://www.panaversity.org/' },
-            { label: 'Discord', href: 'https://discordapp.com/invite/docusaurus' },
+            { label: 'LinkedIn', href: 'https://www.linkedin.com/in/ayaz-ahmed-2b092924b/' },
+            { label: 'Instagram', href: 'https://www.instagram.com/ayazahmed8911/' },
           ],
         },
         {
@@ -101,7 +101,7 @@ const config: Config = {
         },
       ],
       copyright:
-        `Copyright © 2025 Ayaz Ahmed. Built with Docusaurus.`,
+        `Copyright © Physical AI & Humanoid Robotics Textbook, Built with ❤️ by Ayaz Ahmed.`,
     },
     prism: {
       theme: prismThemes.github,
