@@ -3,9 +3,9 @@
     "message": "Textbook",
     "description": "The title of the footer links column with title=Textbook in the footer"
   },
-  "link.title.Community": {
-    "message": "Community",
-    "description": "The title of the footer links column with title=Community in the footer"
+  "link.title.Social Profiles": {
+    "message": "Social Profiles",
+    "description": "The title of the footer links column with title=Social Profiles in the footer"
   },
   "link.title.More": {
     "message": "More",
@@ -15,9 +15,9 @@
     "message": "Introduction",
     "description": "The label of footer link with label=Introduction linking to /docs/textbook/intro"
   },
-  "link.item.label.Panaversity": {
-    "message": "Panaversity",
-    "description": "The label of footer link with label=Panaversity linking to https://www.panaversity.org/"
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/ayazahmed8911/"
   },
   "link.item.label.Discord": {
     "message": "Discord",
@@ -25,10 +25,10 @@
   },
   "link.item.label.GitHub": {
     "message": "GitHub",
-    "description": "The label of footer link with label=GitHub linking to https://github.com/panaversity/physical-ai-robotics-textbook"
+    "description": "The label of footer link with label=GitHub linking to https://github.com/AhmedAyaz789/"
   },
   "copyright": {
-    "message": "Copyright © 2025 Panaversity. Built with Docusaurus.",
+    "message": "Copyright © 2026 Physical AI & Humanoid Robotics Textbook, Built with ❤️ by Ayaz Ahmed.",
     "description": "The footer copyright"
   }
 }
